@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+        // Print a simple message
+        System.out.println("Welcome to my Java GitHub Repository!");
+
+        // Call a method to display more information
+        displayInfo();
+    }
+
+    // A method that displays additional information
+    public static void displayInfo() {
+        System.out.println("This is a basic Java program.");
+        System.out.println("Feel free to explore and modify this code!");
+    }
+}
